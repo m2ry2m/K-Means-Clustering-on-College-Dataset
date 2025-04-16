@@ -62,16 +62,6 @@ Then compare the clustering results to the actual labels (`Private` or `Public`)
 
 ---
 
-## 🚀 How to Run
-
-1. Clone this repo
-2. Make sure you have required libraries installed:
-```bash
-pip install pandas scikit-learn matplotlib seaborn
-3. Run the main Python script:
-python kmeans_college.py
-
-
 Created by a machine learning enthusiast mastering unsupervised models.
 
 
